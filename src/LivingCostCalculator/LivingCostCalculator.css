@@ -1,0 +1,42 @@
+.lcc-wrapper .MuiTypography-root {
+  color: #fff;
+}
+
+.lcc-wrapper .MuiTextField-root label,
+.lcc-wrapper .MuiInputBase-input {
+  color: #fff;
+}
+
+.lcc-wrapper .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.lcc-wrapper .MuiSlider-markLabel {
+  color: #fff;
+  cursor: pointer;
+}
+
+.lcc-adornment {
+  color: #fff;
+  white-space: nowrap;
+}
+
+.lcc-card-white {
+  background-color: #fff;
+  color: #000;
+}
+
+.lcc-card-white .MuiTypography-root,
+.lcc-card-white .MuiInputBase-input,
+.lcc-card-white .MuiInputLabel-root {
+  color: #000 !important;
+}
+
+.lcc-card-white .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.4);
+}
+
+.lcc-income-adornment {
+  color: #000;
+  white-space: nowrap;
+}
